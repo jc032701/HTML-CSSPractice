@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> Title </title>
+        </head>
+        <body>
+            <h1> This is the description of the website </h1>
+            <p> Describe what to do on website </p>
+            <ul>
+                <li> Bubbly</li>
+                <li> Lazy </li>
+                <li> Athletic/Active </li>
+                <li> Affectionate/Friendly </li>
+                </ul>
+                
+            </body>
+            
+        
+        </html>
